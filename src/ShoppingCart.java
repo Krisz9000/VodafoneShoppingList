@@ -1,9 +1,9 @@
 public class ShoppingCart {
-    public final double COST_WURST = 4.40;
-    public final double COST_BROT = 2.45;
-    public final double COST_DVD = 12.32;
-    public final double COST_KAESE = 2.17;
-    public final double COST_BUTTER = 1.89;
+    public final static double COST_WURST = 4.40;
+    public final static double COST_BROT = 2.45;
+    public final static double COST_DVD = 12.32;
+    public final static double COST_KAESE = 2.17;
+    public final static double COST_BUTTER = 1.89;
     public final int AMOUNT_WURST;
     public final int AMOUNT_BROT;
     public final int AMOUNT_DVD;
